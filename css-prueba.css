@@ -1,0 +1,84 @@
+body {
+	background-image:url(apleee.png);
+	margin:auto;
+}
+h1 {
+	margin-bottom:10px;
+}
+h2 {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+ul {
+	list-style-position:inside;
+	color:white;
+	line-height:45px;
+}
+
+.box1 {
+	border-style:hidden;
+	border-radius:10px;	
+	background-color:silver;
+	text-align: center;
+	font-size: 60px;
+	font-family:Covered By Your Grace;
+    
+}
+.box2 {
+	border-style:hidden;
+	border-radius:10px;
+	background-color:silver;
+	text-align:center;
+	font-size:30px;
+	font-family:Covered By Your Grace;
+}
+.img-border {
+	border-style:solid;
+	border-width:10px;
+	border-color:black;
+	border-radius:10px;
+	width:80%;
+} 
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+.box-3 {
+	background-color:silver;
+	border-style:hidden;
+	text-align:center;
+	border-radius:10px;
+	font-size:30px;
+}
+.size {
+	font-size:25px;
+}
+.box-5 {
+	border-style:hidden;
+	background-color:#494848;
+	border-radius:10px;
+	font-family: Della Respira;
+
+
+}
+.ul-align {
+	margin:0 auto;
+	width:auto;
+}
+.box6 {
+	background-color:white;
+	border-style:hidden;
+	text-align:center;
+	font-size:25px;
+	color:black;
+	border-radius:10px;
+}
+.code {
+	border-style:hidden;
+	background-color:#494848;
+	text-align:right;
+	font-size:22px;
+	color:white;
+	border-radius:10px;
+}
